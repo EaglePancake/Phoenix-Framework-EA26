@@ -1,0 +1,1 @@
+All FBX files were exported with Blender 2.93.3 using the fbx export settings shown in blender_fbx_export_settings.png

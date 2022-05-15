@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 8345f8178707d564a8145bf457a3b7b9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Soldier Idle
+  - first:
+      74: 2119888940048351789
+    second: Soldier Lean Right
+  - first:
+      74: 611826754322993786
+    second: Soldier Lean Left
+  - first:
+      74: -4119841629660965761
+    second: Soldier Pistol Idle
+  - first:
+      74: 843328654482880025
+    second: Soldier Pistol Lean Right
+  - first:
+      74: 5841818741887920458
+    second: Soldier Pistol Lean Left
+  - first:
+      74: 7348302631635753737
+    second: Soldier Smaw Idle
+  - first:
+      74: 8147418605835561088
+    second: Soldier Smaw Lean Right
+  - first:
+      74: -335006807214696797
+    second: Soldier Smaw Lean Left
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Scene' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bone.002' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Soldier Idle
+      takeName: Scene
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Lean Right
+      takeName: Scene
+      internalID: 0
+      firstFrame: 11
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Lean Left
+      takeName: Scene
+      internalID: 0
+      firstFrame: 21
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Pistol Idle
+      takeName: Scene
+      internalID: 0
+      firstFrame: 281
+      lastFrame: 282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Pistol Lean Right
+      takeName: Scene
+      internalID: 0
+      firstFrame: 291
+      lastFrame: 292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Pistol Lean Left
+      takeName: Scene
+      internalID: 0
+      firstFrame: 301
+      lastFrame: 302
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Smaw Idle
+      takeName: Scene
+      internalID: 0
+      firstFrame: 311
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Smaw Lean Right
+      takeName: Scene
+      internalID: 0
+      firstFrame: 321
+      lastFrame: 322
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Soldier Smaw Lean Left
+      takeName: Scene
+      internalID: 0
+      firstFrame: 331
+      lastFrame: 332
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Bone
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.L.001
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.R.001
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.L.002
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.R.002
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.001
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.003
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.004
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.L.001
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.R.001
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.L.002
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.R.002
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.L.003
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.R.003
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Soldier_animations(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot IK Target L
+      parentName: Soldier_animations(Clone)
+      position: {x: -0.18326, y: 0, z: 0.17449}
+      rotation: {x: 0.00000009817442, y: 0.67559016, z: 0.7372774, w: -0.000000089960274}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Foot IK Target R
+      parentName: Soldier_animations(Clone)
+      position: {x: 0.18326, y: 0, z: 0.17449}
+      rotation: {x: -0.000000093728985, y: 0.67559016, z: 0.7372774, w: 0.00000009481162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Soldier_animations(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone
+      parentName: Armature
+      position: {x: -0, y: -0.011965785, z: 0.6882065}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0.20007885, y: 0, z: 0}
+      rotation: {x: 0.00000011919287, y: 0.016591208, z: -0.000000001977826, w: 0.9998624}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -0.24794683, y: -4.440892e-16, z: 0}
+      rotation: {x: 2.4897046e-14, y: -0.021983821, z: 0.0000000052413505, w: 0.99975836}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000006}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: -0.29530406, y: -0.0000000019782955, z: -0.008297571}
+      rotation: {x: 0.00000011792863, y: 0.14618713, z: -0.00000005228059, w: 0.989257}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Bone.004
+      parentName: Bone.003
+      position: {x: -0.07116131, y: 3.1086253e-15, z: -0.000000016763806}
+      rotation: {x: -0.00000023604181, y: -0.14084935, z: 0.000000033581095, w: 0.99003106}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Shoulder.R
+      parentName: Bone.002
+      position: {x: -0.26323813, y: 0.07620788, z: -0.013282001}
+      rotation: {x: -0.44566768, y: 0.5441419, z: 0.5489811, w: -0.45156366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm.R.001
+      parentName: Shoulder.R
+      position: {x: -0.123832375, y: 2.735112e-10, z: 0.000000021672312}
+      rotation: {x: 0.025020892, y: 0.07518864, z: -0.0055307136, w: 0.9968401}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000001}
+    - name: Arm.R.002
+      parentName: Arm.R.001
+      position: {x: -0.2600644, y: 0.000000011175871, z: 0.00000003221612}
+      rotation: {x: -0.2893526, y: 0.027422719, z: -0.016885944, w: 0.95668066}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: Arm.R.003
+      parentName: Arm.R.002
+      position: {x: -0.22129989, y: 0.0000000037252903, z: 0.000000044703484}
+      rotation: {x: -0.46792313, y: -0.028232932, z: -0.0581537, w: 0.8814017}
+      scale: {x: 1.0000015, y: 1.0000008, z: 1.0000012}
+    - name: Shoulder.L
+      parentName: Bone.002
+      position: {x: -0.26323813, y: -0.07620788, z: -0.013281964}
+      rotation: {x: -0.49610043, y: -0.49848884, z: 0.5038696, w: 0.50150645}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Arm.L.001
+      parentName: Shoulder.L
+      position: {x: -0.12383236, y: 7.351324e-10, z: -0.00000021869313}
+      rotation: {x: -0.01906554, y: -0.024916273, z: 0.0049346075, w: 0.9994956}
+      scale: {x: 1.0000008, y: 0.9999994, z: 1.0000005}
+    - name: Arm.L.002
+      parentName: Arm.L.001
+      position: {x: -0.2600645, y: 0.000000011175871, z: 0.000000047226422}
+      rotation: {x: 0.28792638, y: 0.030856984, z: 0.01377844, w: 0.95705616}
+      scale: {x: 1.0000021, y: 1.0000004, z: 1.000001}
+    - name: Arm.L.003
+      parentName: Arm.L.002
+      position: {x: -0.22130002, y: 0.000000007450581, z: -0.00000021606684}
+      rotation: {x: 0.46792313, y: -0.028232904, z: 0.058153722, w: 0.8814017}
+      scale: {x: 1.0000008, y: 0.9999992, z: 1.0000001}
+    - name: Leg.R
+      parentName: Bone
+      position: {x: -0.17984045, y: 0.109572515, z: 0.006894108}
+      rotation: {x: -0.043170277, y: 0.9971713, z: -0.061498865, w: -0.0019447332}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99981165}
+    - name: Leg.R.001
+      parentName: Leg.R
+      position: {x: -0.3925378, y: -0.0000000055879354, z: -0.0000000040745363}
+      rotation: {x: -0.012585781, y: 0.010340948, z: -0.0013515663, w: 0.9998664}
+      scale: {x: 1.0000026, y: 0.9999999, z: 1.0000005}
+    - name: Leg.R.002
+      parentName: Leg.R.001
+      position: {x: -0.43568847, y: 0.000000018189894, z: 5.2386895e-10}
+      rotation: {x: 0.7285032, y: 0.06553665, z: 0.68186647, w: 0.006795036}
+      scale: {x: 0.99999917, y: 0.99999905, z: 1.0000039}
+    - name: Leg.L
+      parentName: Bone
+      position: {x: -0.17984045, y: -0.109572515, z: 0.006894108}
+      rotation: {x: 0.04317027, y: 0.9971713, z: 0.061498877, w: -0.0019447333}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99981165}
+    - name: Leg.L.001
+      parentName: Leg.L
+      position: {x: -0.3925378, y: 0.000000009662472, z: -0.0000000022118911}
+      rotation: {x: 0.01258577, y: 0.010340949, z: 0.0013515644, w: 0.9998664}
+      scale: {x: 1.0000026, y: 0.9999999, z: 1.0000005}
+    - name: Leg.L.002
+      parentName: Leg.L.001
+      position: {x: -0.43568844, y: 0.000000012398232, z: 5.820766e-10}
+      rotation: {x: 0.7285033, y: -0.065536544, z: 0.6818664, w: -0.0067950743}
+      scale: {x: 0.9999991, y: 0.9999989, z: 1.0000038}
+    - name: Mouth
+      parentName: Soldier_animations(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier
+      parentName: Soldier_animations(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

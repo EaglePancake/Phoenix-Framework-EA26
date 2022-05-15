@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 7d01f7f023aee254492ac65d0f6697aa
+timeCreated: 1627042036
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AttackHeli Hull
+    100004: AttackHeliMissile
+    100006: AttackHeliRocket
+    100008: Missiles
+    100010: RocketPods
+    100012: Rotor
+    100014: Rotor Blades
+    100016: Tail Rotor
+    100018: Tail Rotor Blades
+    100020: Turret Bearing
+    100022: Turret Pitch
+    100024: Windshield HUD Mask
+    400000: //RootNode
+    400002: AttackHeli Hull
+    400004: AttackHeliMissile
+    400006: AttackHeliRocket
+    400008: Missiles
+    400010: RocketPods
+    400012: Rotor
+    400014: Rotor Blades
+    400016: Tail Rotor
+    400018: Tail Rotor Blades
+    400020: Turret Bearing
+    400022: Turret Pitch
+    400024: Windshield HUD Mask
+    2300000: AttackHeli Hull
+    2300002: AttackHeliMissile
+    2300004: AttackHeliRocket
+    2300006: Missiles
+    2300008: RocketPods
+    2300010: Rotor
+    2300012: Rotor Blades
+    2300014: Tail Rotor
+    2300016: Tail Rotor Blades
+    2300018: Turret Bearing
+    2300020: Turret Pitch
+    2300022: Windshield HUD Mask
+    3300000: AttackHeli Hull
+    3300002: AttackHeliMissile
+    3300004: AttackHeliRocket
+    3300006: Missiles
+    3300008: RocketPods
+    3300010: Rotor
+    3300012: Rotor Blades
+    3300014: Tail Rotor
+    3300016: Tail Rotor Blades
+    3300018: Turret Bearing
+    3300020: Turret Pitch
+    3300022: Windshield HUD Mask
+    4300000: Windshield HUD Mask
+    4300002: AttackHeliMissile
+    4300004: AttackHeliRocket
+    4300006: Turret Bearing
+    4300008: Turret Pitch
+    4300010: Rotor
+    4300012: Rotor Blades
+    4300014: Tail Rotor
+    4300016: Tail Rotor Blades
+    4300018: RocketPods
+    4300020: AttackHeli Hull
+    4300022: Missiles
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

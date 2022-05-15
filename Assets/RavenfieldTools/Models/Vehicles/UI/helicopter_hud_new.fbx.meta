@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: f9b0d9b65011e5f4fbd1fa52de3c81be
+timeCreated: 1627047538
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Gunner Crosshair
+    100002: Heading
+    100004: //RootNode
+    100006: Laser Target
+    100008: Laser Target Circle
+    100010: Laser Target Invalid
+    100012: Pitch
+    100014: Rockets Target
+    100016: Roll Indicator
+    100018: Roll Indicator static
+    400000: Gunner Crosshair
+    400002: Heading
+    400004: //RootNode
+    400006: Laser Target
+    400008: Laser Target Circle
+    400010: Laser Target Invalid
+    400012: Pitch
+    400014: Rockets Target
+    400016: Roll Indicator
+    400018: Roll Indicator static
+    2300000: Gunner Crosshair
+    2300002: Heading
+    2300004: Laser Target
+    2300006: Laser Target Circle
+    2300008: Laser Target Invalid
+    2300010: Pitch
+    2300012: Rockets Target
+    2300014: Roll Indicator
+    2300016: Roll Indicator static
+    3300000: Gunner Crosshair
+    3300002: Heading
+    3300004: Laser Target
+    3300006: Laser Target Circle
+    3300008: Laser Target Invalid
+    3300010: Pitch
+    3300012: Rockets Target
+    3300014: Roll Indicator
+    3300016: Roll Indicator static
+    4300000: Gunner Crosshair
+    4300002: Roll Indicator
+    4300004: Roll Indicator static
+    4300006: Laser Target Circle
+    4300008: Laser Target
+    4300010: Rockets Target
+    4300012: Pitch
+    4300014: Heading
+    4300016: Laser Target Invalid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
